@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(255, 38, 38);
+}
+
+.eingabe {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.eingfelder {
+    padding: 5px;
+    margin: 10px;
+}
